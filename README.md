@@ -118,14 +118,6 @@ E-RALLY_V1/
 
 ---
 
-## 📷 Example Scope Output
-
-- PWM signal pattern for each phase
-- Dead time between high/low pairs
-- Phase alignment with Hall input transitions
-
----
-
 ## 📚 References & Documentation
 
 - [STM32F103C6 Datasheet – STMicroelectronics](https://www.st.com/resource/en/datasheet/stm32f103c6.pdf)
