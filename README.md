@@ -73,7 +73,7 @@ E-RALLY_V1/
 | Phase A Low        | PA7 (TIM1_CH1N)  | Low-side PWM for Phase A            |
 | Phase B Low        | PB0 (TIM1_CH2N)  | Low-side PWM for Phase B            |
 | Phase C Low        | PB1 (TIM1_CH3N)  | Low-side PWM for Phase C            |
-| Throttle Input     | PA0 (ADC1 IN0)   | Analog input (0–3.3V) mapped to PWM |
+| Throttle Input     | PA0 (ADC1 IN0)   | Analog input (0–5V) mapped to PWM |
 
 ---
 
