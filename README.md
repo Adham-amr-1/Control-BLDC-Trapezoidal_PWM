@@ -121,9 +121,6 @@ E-RALLY_V1/
 ## 📚 References & Documentation
 
 - [STM32F103C6 Datasheet – STMicroelectronics](https://www.st.com/resource/en/datasheet/stm32f103c6.pdf)
-- [Application Note: AN11657 – Trapezoidal BLDC Control](https://www.nxp.com/docs/en/application-note/AN11657.pdf)
-- [STM32 Motor Control SDK](https://www.st.com/en/embedded-software/stm32-motor-control.html)
-- [STM32Cube HAL API Reference](https://www.st.com/en/embedded-software/stm32cubef1.html)
 
 ---
 
