@@ -10,10 +10,8 @@ Designed to deliver real-time control of brushless motors, the firmware combines
 
 Developed by the Embedded Systems Team of the E-RALLY competition vehicle:
 
-- **Adham Amr** – PWM interfacing, Motor control logic, system integration
-- **Nourhan Abdelnabi** – PWM and sensor interfacing, testing  
-- **Amira Muhamed** – PWM interfacing, Code debugging, peripheral configuration  
-
+- **Adham Amr** – PWM interfacing, Motor control logic, system integration, peripheral configuration
+- **Nourhan Abdelnabi** – PWM and sensor interfacing, testing, Code debugging   
 ---
 
 ## 🧠 Technical Overview
